@@ -7,8 +7,8 @@ when 4
   puts "Quadrilateral"
 when 5
   puts "Pentagon"
-when 6 
-  puts "Hexagon" 
+when 6
+  puts "Hexagon"
 else
-  puts "Error" 
+  puts "Error"
 end
