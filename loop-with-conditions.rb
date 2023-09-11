@@ -8,3 +8,18 @@ loop do
   end
   puts n
 end
+
+=begin
+
+loop do
+    a = gets.to_i
+    case a
+        when 10
+        break
+        when 5, 15
+        next
+    end
+    puts a
+end
+
+=end
