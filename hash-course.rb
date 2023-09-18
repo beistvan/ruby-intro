@@ -1,3 +1,3 @@
-course = {:name=>"Ruby", :difficulty=>"edium"}
+course = {:name=>"Ruby", :difficulty=>"medium"}
 
 puts course[:name] # Ruby
