@@ -1,0 +1,5 @@
+def just_print_args(*params)
+  puts *params
+end
+
+just_print_args("How","are","you?", 1, 2, 3, true, 2.8)
